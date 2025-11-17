@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+textstat
+vaderSentiment
+regex
+beautifulsoup4
+requests
+tldextract
+numpy
+pandas
